@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "url": "https://sports2.tippmixpro.hu/hu",
+    "cookie": false,
+    "loadMore": true,
+    "cookieIdName": "",
+    "cookieButtonOrder": 0,
+    "loadMoreClassName": "MatchList__MainButton",
+    "gamesWrapper": "MatchList--Sport-1",
+    "gameWrapper": "MatchListGroup",
+    "homeName": "Details__Participant",
+    "awayName": "Details__Participant",
+    "homeOdds":  "OddsButton__Odds",
+    "drawOdds":  "OddsButton__Odds",
+    "awayOdds":  "OddsButton__Odds",
+    "time":  "MatchTime__InfoPart",
+    "date":  "MatchTime__InfoPart"
+  },
+  {
+    "id": 2,
+    "url": "https://vegas.hu/betting#page=custom2",
+    "cookie": true,
+    "loadMore": true,
+    "cookieIdName": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "cookieButtonOrder": 1,
+    "loadMoreClassName": "DateListVariant0styled__DateWrapperContainer-sc-16gvg47-1",
+    "gamesWrapper": "MatchOddsstyled__MatchOddsContainer-sc-w2jcvr-0",
+    "gameWrapper": "EventBoxVariant0styled__EventBoxContainer-sc-32j3jk-0",
+    "homeName": "EventBoxCompetitorsstyled__CompetitorNameBase-sc-wpbfyn-0",
+    "awayName": "EventBoxCompetitorsstyled__CompetitorNameBase-sc-wpbfyn-0",
+    "homeOdds":  "OddBoxVariant2styled__OddValue-sc-9pzo4l-3",
+    "drawOdds":  "OddBoxVariant2styled__OddValue-sc-9pzo4l-3",
+    "awayOdds":  "OddBoxVariant2styled__OddValue-sc-9pzo4l-3",
+    "datetime": "EventBoxstyled__DateTime-sc-ksk2ut-8",
+    "datetimeSeparator": "•",
+    "time":  "",
+    "date":  ""
+  }
+]
